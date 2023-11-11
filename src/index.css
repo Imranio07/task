@@ -1,0 +1,53 @@
+.Pokemons{
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 400px;
+  row-gap: 20px;
+}
+.bulbasaur{
+  width: 150px;
+  height: 60px;
+  background-color: aqua;
+  text-align: end;
+  border-radius: 10px;
+}
+.ivysaur{
+  width: 150px;
+  height: 60px;
+  background-color: aqua;
+  gap: 50px;
+  text-align: end;
+  border-radius: 10px;
+}
+.venusaur{
+  width: 150px;
+  height: 60px;
+  background-color: aqua;
+  gap: 50px;
+  text-align: end;
+  border-radius: 10px;
+}
+.metapod{
+  width: 150px;
+  height: 60px;
+  background-color: aqua;
+  gap: 50px;
+  text-align: end;
+  border-radius: 10px;
+}
+.butterfree{
+  width: 150px;
+  height: 60px;
+  background-color: aqua;
+  gap: 50px;
+  text-align: end;
+  border-radius: 10px;
+}
+.weedle{
+  width: 150px;
+  height: 60px;
+  background-color: aqua;
+  gap: 50px;
+  text-align: end;
+  border-radius: 10px;
+}
